@@ -4,8 +4,10 @@ public class FirstClass {
 
 	public static void main(String[] args) {
 		
-		System.out.println("›lk commit from local repository");
-		System.out.println("›kinci commit from local repository");
+		System.out.println("√ùlk commit from local repository");
+		System.out.println("√ùkinci commit from local repository");
+		
+		System.out.println("Son commit from remote repository");
 
 	}
 
