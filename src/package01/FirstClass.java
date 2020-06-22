@@ -8,6 +8,9 @@ public class FirstClass {
 		System.out.println("Ýkinci commit from local repository");
 		
 		System.out.println("master'dan ýsrarcý bir commit");
+	
+		System.out.println("Son commit from remote repository");
+
 
 	}
 
