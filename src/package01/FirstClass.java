@@ -4,10 +4,10 @@ public class FirstClass {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Ýlk commit from local repository");
-		System.out.println("Ýkinci commit from local repository");
+		System.out.println("Ãƒï¿½lk commit from local repository");
+		System.out.println("Ãƒï¿½kinci commit from local repository");
 		
-		System.out.println("master'dan ýsrarcý conflict bir commit");
+		System.out.println("we are against conflicts");
 	
 		System.out.println("Son commit from remote repository");
 
