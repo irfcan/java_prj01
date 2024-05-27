@@ -11,7 +11,6 @@ public class FirstClass {
 	
 		System.out.println("Son commit from remote repository");
 
-
 	}
 
 }
